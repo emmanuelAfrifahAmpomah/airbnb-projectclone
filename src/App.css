@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.card-title {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.starContents {
+  font-size: 12px;
+}
+
+span {
+  font-size: 12px;
+  color: #918E9B;
+  ;
+}
+
+.card {
+  width: 68.1%;
+  border: hidden
+}
