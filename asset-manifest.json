@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airbnb-projectclone/static/css/main.c116acbb.css",
+    "main.js": "/airbnb-projectclone/static/js/main.f7a7da0d.js",
+    "static/js/787.fe167407.chunk.js": "/airbnb-projectclone/static/js/787.fe167407.chunk.js",
+    "static/media/spacejoy-ml2RSaDME-k-unsplash.jpg": "/airbnb-projectclone/static/media/spacejoy-ml2RSaDME-k-unsplash.dfe126a4b922dc4c9d18.jpg",
+    "static/media/peter-dawn-sxZ_Ca6MkWM-unsplash.jpg": "/airbnb-projectclone/static/media/peter-dawn-sxZ_Ca6MkWM-unsplash.0996b54f7bf75e2003de.jpg",
+    "static/media/joel-mott-EKCmf5-O3bU-unsplash.jpg": "/airbnb-projectclone/static/media/joel-mott-EKCmf5-O3bU-unsplash.c97cc6462c1e125e58a2.jpg",
+    "static/media/Group77.png": "/airbnb-projectclone/static/media/Group77.4205c25191b8e0f8cbbc.png",
+    "static/media/image_12.png": "/airbnb-projectclone/static/media/image_12.bf69b50762f4e3044034.png",
+    "static/media/airbnb.svg": "/airbnb-projectclone/static/media/airbnb.96e62745de61aae4432961de96cd3905.svg",
+    "static/media/logo.svg": "/airbnb-projectclone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/airbnb-projectclone/index.html",
+    "main.c116acbb.css.map": "/airbnb-projectclone/static/css/main.c116acbb.css.map",
+    "main.f7a7da0d.js.map": "/airbnb-projectclone/static/js/main.f7a7da0d.js.map",
+    "787.fe167407.chunk.js.map": "/airbnb-projectclone/static/js/787.fe167407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c116acbb.css",
+    "static/js/main.f7a7da0d.js"
+  ]
+}
